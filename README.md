@@ -41,7 +41,7 @@ Busco constantemente oportunidades para aplicar minhas habilidades analíticas e
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <div> 
- <a href="https://https://www.gitshowcase.com/paauloanderson" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank"></a> 	
+ <a href="https://www.gitshowcase.com/paauloanderson" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank"></a> 	
  <a href = "mailto:pauloandersondesf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
 
